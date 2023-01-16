@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rohit1201
-- 👀 I’m interested in Data Science job
-- 🌱 I’m currently learning Data Science and business analyst course.
+- 👋 Hi, I’m @Rohit Agrawal
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently working at Tesco Bengaluru Private Limited, Bengaluru.
 - 💞️ I’m looking to collaborate on different platforms.
-- 📫 How to reach me ...
+- 📫 contact - 
 
 <!---
 Rohit1201/Rohit1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
